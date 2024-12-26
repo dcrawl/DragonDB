@@ -21,7 +21,7 @@ This method simply closes and frees up the resources associated with database.
 
 This method executes an SQL statement.  If the statement succeeded, a ```true``` object will be returned and ```nil``` otherwise.  This method is meant for statements that do not return a result set.
 
-## GTK::DragonDB.sqlite_qery(sql)
+## GTK::DragonDB.sqlite_query(sql)
 
 | Argument | Description |
 | -- | -- |
